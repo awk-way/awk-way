@@ -9,10 +9,9 @@
 ---
 
 # 🌐 Connect with Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/awk.way_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajashree-jarande-636459286/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaranderajashree@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajashree-jarande-636459286/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/awk.way_)
 
 ---
 
@@ -67,8 +66,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=awk-way&theme=cobalt&hide_border=true" width="70%" />
 </div>
-
-
-## 📈 Most Used Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=awk-way&layout=compact&theme=tokyonight)
