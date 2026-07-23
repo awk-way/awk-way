@@ -1,9 +1,6 @@
 # 💫 About Me
-
 🔭 Currently building personal projects and experimenting with new ideas.
-
 👯 Open to collaborating on freelance and open-source projects.
-
 🌱 Currently exploring modern frontend technologies and best practices.
 
 ---
